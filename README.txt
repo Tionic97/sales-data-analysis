@@ -40,6 +40,6 @@ This project demonstrates data analysis, visualization, and business thinking sk
 
 ## 📊 Visualizations
 
-![Sales](images/sales_pro.png)
-![Profit](images/profit_pro.png)
-![Trend](images/monthly_sales_pro.png)
+[Sales](images/sales_pro.png)
+[Profit](images/profit_pro.png)
+[Trend](images/monthly_sales_pro.png)
