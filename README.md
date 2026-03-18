@@ -38,7 +38,6 @@ This project analyzes sales data to identify trends, profitability, and business
 
 * `analysis.ipynb` → main analysis
 * `superstore_sample.csv` → dataset
-* `images/` → visualizations
 
 ## 🚀 Outcome
 
